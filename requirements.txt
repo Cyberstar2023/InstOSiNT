@@ -1,0 +1,2 @@
+selenium==4.28.1
+termcolor==2.5.0
