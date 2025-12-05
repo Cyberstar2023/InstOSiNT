@@ -45,8 +45,8 @@ USAGE INSTRUCTIONS
    python InstOSiNT.py
 
 2. Follow the prompts:
-   - Enter your Instagram username
-   - Enter your Instagram password
+   - Enter your Instagram username (Enter bot username = iobot26)
+   - Enter your Instagram password (Enter bot password = cmiuc25)
    - Enter the target/victim's username
 
 3. Menu Options:
@@ -166,5 +166,6 @@ Customization Options:
 Modify XPATH selectors if Instagram updates their layout
 
 Add additional data points as needed
+
 
 Customize output format for reports
